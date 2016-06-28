@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="47" started-at="2016-06-24T06:07:16Z" finished-at="2016-06-24T06:07:16Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="47" started-at="2016-06-24T06:07:16Z" finished-at="2016-06-24T06:07:16Z">
+      <class name="basic_tatoc">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:basic_tatoc@387e0849]" name="beforeClass" is-config="true" duration-ms="5" started-at="2016-06-24T11:37:16Z" finished-at="2016-06-24T11:37:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="testMethod(java.lang.String, java.lang.String)[pri:0, instance:basic_tatoc@387e0849]" name="testMethod" duration-ms="6" started-at="2016-06-24T11:37:16Z" data-provider="ghdfghd" finished-at="2016-06-24T11:37:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[five]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod -->
+        <test-method status="PASS" signature="testMethod(java.lang.String, java.lang.String)[pri:0, instance:basic_tatoc@387e0849]" name="testMethod" duration-ms="2" started-at="2016-06-24T11:37:16Z" data-provider="ghdfghd" finished-at="2016-06-24T11:37:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[6]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[six]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod -->
+        <test-method status="PASS" signature="testMethod(java.lang.String, java.lang.String)[pri:0, instance:basic_tatoc@387e0849]" name="testMethod" duration-ms="2" started-at="2016-06-24T11:37:16Z" data-provider="ghdfghd" finished-at="2016-06-24T11:37:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[7]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[seven]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:basic_tatoc@387e0849]" name="beforeClass" is-config="true" duration-ms="1" started-at="2016-06-24T11:37:16Z" finished-at="2016-06-24T11:37:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="testMethod(java.lang.String, java.lang.String)[pri:0, instance:basic_tatoc@4d09b5ca]" name="testMethod" duration-ms="3" started-at="2016-06-24T11:37:16Z" data-provider="ghdfghd" finished-at="2016-06-24T11:37:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[five]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod -->
+        <test-method status="PASS" signature="testMethod(java.lang.String, java.lang.String)[pri:0, instance:basic_tatoc@4d09b5ca]" name="testMethod" duration-ms="2" started-at="2016-06-24T11:37:16Z" data-provider="ghdfghd" finished-at="2016-06-24T11:37:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[6]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[six]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod -->
+        <test-method status="PASS" signature="testMethod(java.lang.String, java.lang.String)[pri:0, instance:basic_tatoc@4d09b5ca]" name="testMethod" duration-ms="1" started-at="2016-06-24T11:37:16Z" data-provider="ghdfghd" finished-at="2016-06-24T11:37:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[7]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[seven]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod -->
+      </class> <!-- basic_tatoc -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
