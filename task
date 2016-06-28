@@ -1,0 +1,13 @@
+Assignments:
+1. Upload all your existing assignment code on Github. Create separate repositories on GitHub for each of the assignments.
+2. Create a Automated Test solution for GitHub. Use Selenium-WebDriver and Page Object Model design pattern. Create Test Cases for GitHub.com site and automate them using your homegrown framework. Some test scenarios that should be covered are:
+ - Create new Repository from Github.com Web
+ - Clone repository on local
+ - Check-in code to newly created repository from command-lin
+ - Validate code checked-in from Github.com Web
+ - Validate commit messages and log from Github.com Web and command-line
+ - Add readme file from project from Github.com Web, make changes to it from Github.com web, pull local repository from command line and check updated Readme file merge.
+
+
+
+
